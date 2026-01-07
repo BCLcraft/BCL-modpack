@@ -18,4 +18,4 @@
 
 [BCLcraft官网](https://www.bclcraft.com)
 
-**_Copyright © 2021-2025 BCLcraft All rights reserved._**
+**_Copyright © 2021-2026 BCLcraft All rights reserved._**
